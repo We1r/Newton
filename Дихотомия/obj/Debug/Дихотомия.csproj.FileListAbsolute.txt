@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\bin\Debug\Дихотомия.exe.config
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\bin\Debug\Дихотомия.exe
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\bin\Debug\Дихотомия.pdb
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\obj\Debug\Дихотомия.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\obj\Debug\Дихотомия.Form1.resources
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\obj\Debug\Дихотомия.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\obj\Debug\Дихотомия.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\obj\Debug\Дихотомия.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\obj\Debug\Дихотомия.exe
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\obj\Debug\Дихотомия.pdb
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\ASUS\source\repos\Дихотомия\Дихотомия\obj\Debug\Дихотомия.csproj.CopyComplete
